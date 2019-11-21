@@ -2,10 +2,10 @@
   "main": {
     "name":"Achyar Anshorie",
     "occupation":"Senior Backend Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"",
     "image":"achyar.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"A quick learner who can absorb new ideas and can communicate clearly and effectively. Currently looking for a opportunity to join a dynamic, ambitious, growing company and forge a career as a Backend Developer",
+    "contactmessage":"if there is something to be conveyed contact me",
     "email": "achyar.anshorie@gmail.com",
     "phone": "0811-366-875",
     "address":{
@@ -14,12 +14,12 @@
       "state":"Jawa Barat",
       "zip": "16925"
     },
-    "website": "http://www.achyar.my.id",
+    "website": "https://www.achyar.my.id",
     "resumedownload":"#",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/achyar.anshorie",
+        "url":"https://facebook.com/achyar.anshorie",
         "className":"fa fa-facebook"
       },
       {
@@ -29,12 +29,12 @@
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/",
+        "url":"https://googleplus.com/",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/",
+        "url":"https://www.linkedin.com/in/achyar-anshorie-185255142/",
         "className":"fa fa-linkedin"
       },
       {
@@ -55,97 +55,138 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"My Skills",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Universitas Indraprasta Jakarta",
+        "degree":"Teknik Informatika",
+        "graduated":"September 2019"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"SMK Al Fiqoriyah",
+        "degree":"Multimedia",
+        "graduated":"Juni 2011"
+      },
+      {
+        "school": "MTs Arrahmah",
+        "degree": "-",
+        "graduated": "Juni 2008"
+      },
+      {
+        "school": "SDI Arrahmah",
+        "degree": "-",
+        "graduated": "Juni 2005"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"PT. Aplikasi Karya Utama",
+        "title":"Senior Backend Developer",
+        "years":"November 2019 - Present"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"PT. Artikulpi Merdeka Jaya",
+        "title":"Web Designer",
+        "years":"February 2017 - November 2019"
+      },
+      {
+        "company": "PT. Sumber Alfaria Trijaya, Tbk",
+        "title": "Management Information System Specialist",
+        "years": "September 2012 - February 2017"
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
+        "name":"PHP",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"Node JS",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
         "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"85%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"Mysql",
+        "level":"80%"
       },
       {
         "name":"MongoDB",
         "level":"80%"
+      },
+      {
+        "name": "GIT",
+        "level": "80%"
+      },
+      {
+        "name": "Networking",
+        "level": "80%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Human Resources Information System",
+        "category":"HRIS Application for HRD",
+        "image":"hris.png",
+        "url":"https://hris.matik.id"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Sistem Informasi Presensi",
+        "category":"Application employee present",
+        "image":"presensi.png",
+        "url":"#"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"SPPS Cloud",
+        "category":"Sistem Pembayaran Pendidikan Sekolah",
+        "image":"spps.png",
+        "url":"https://spps.matik.id"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Inventory App",
+        "category":"Application for counter mobile phone inventory",
+        "image":"inventory.png",
+        "url":"#"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Point Of Sales System",
+        "category":"Point of Sales for retail minimarket",
+        "image":"pos.png",
+        "url":"#"
+      },
+      {
+        "title":"ILC Learning Center Jakarta",
+        "category":"Company Profile ILC",
+        "image":"goilc.png",
+        "url":"http://goilc.co.id"
+      },
+      {
+        "title":"Playtopia Dashboard",
+        "category":"Playtopia Manage Apps",
+        "image":"playtopia.png",
+        "url":"#"
+      },
+      {
+        "title":"MATIK",
+        "category":"Landing Page Matik ID",
+        "image":"matik.png",
+        "url":"https://matik.id"
       }
     ]
   },
