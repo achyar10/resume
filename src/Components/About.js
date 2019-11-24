@@ -34,7 +34,7 @@ class About extends Component {
 						   <span>{street}<br />
 						         {city} {state}, {zip}
                    </span><br />
-                         <span><a href="http://wa.me/62811366875" target="_blank">{phone}</a></span><br />
+                         <span><a href="http://wa.me/62811366875">{phone}</a></span><br />
                      <span>{email}</span>
 					   </p>
                </div>
